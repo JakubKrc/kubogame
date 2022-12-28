@@ -55,7 +55,7 @@ button3.addEventListener('click', e => {
     camera.x = obj[selectedObject].x - canvas.width/2;
     camera.y = obj[selectedObject].y - canvas.height/2;
     camera.moveXspeed = 0;
-    camerad.moveYspeed = 0;
+    camera.moveYspeed = 0;
 
     mainInterval = true;
 

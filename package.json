@@ -4,6 +4,7 @@
   "description": "Trying to login to mysql database...",
   "main": "src/nodedata.js",
   "scripts": {
+    "watch": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
